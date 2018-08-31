@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* Theme Color */
+
+
+
+.scroll-to-top,
+.news-block-two .inner-box .date,
+.news-block .content-box .content h3 a:hover,
+.news-block .content-box .date,
+.meta-list li a:hover span,
+.meta-list li a:hover,
+.popular-post .post:hover h3 a,
+.popular-post .post .date,
+.subscribe-widget .subscribe-form button:hover,
+.category-list li a:hover,
+.main-footer .footer-bottom .contact-link,
+.main-footer .post-widget .post span,
+.main-footer .post-widget .post:before,
+.main-footer .links-widget .list li:before,
+.author-box .name span,
+.news-block-three .lower-content .read-more,
+.news-block-three .lower-content h3 a:hover,
+.news-block-three .lower-content .info-list li a:hover,
+.news-block-two .caption-box h3 a:hover,
+.news-block .content-box .content .read-more,
+.counter-column .counter-title,
+.fact-counter-section .sec-title h3 span,
+.load-more-option .load-more a:hover,
+.gallery-item .caption-box .title h3 a,
+.gallery-item .caption-box .title h3,
+.gallery-item .caption-box .icon-box span,
+.help-block .icon-box,
+.work-block .read-more,
+.work-block h4 a:hover,
+.project-block .caption-box .read-more,
+.project-block .caption-box h3 a:hover,
+.about-section .content-column h3 a,
+.page-title .bread-crumb li a:hover,
+.page-title .bread-crumb li,
+.sec-title .separator,
+.main-slider .title,
+.header-style-two .main-menu .navigation > li.current > a:after,
+.header-style-two .main-menu .navigation > li:hover > a:after,
+.header-style-two .main-menu .navigation > li:hover > a,
+.header-style-two .main-menu .navigation > li.current > a,
+.main-header .search-panel .search-btn:hover,
+.main-header .search-box-btn:hover,
+.main-header .header-top .top-left ul li a:hover,
+.btn-style-two:hover,
+.social-icon-three li a,
+.social-icon-two li a,
+.social-icon li a:hover,
+.theme_color,
+a{
+	color:#ff0000;
+}
+
+
+/*Background Color*/
+
+.scroll-to-top:hover,
+.tag-list li a:hover,
+.subscribe-widget .subscribe-form,
+.sidebar .search-box .form-group button,
+.styled-pagination li a:hover,
+.styled-pagination li a.active,
+.blog-detail ol li:before,
+.news-block-two:hover .read-more,
+.news-block .info-box,
+.volunteer-carousel .owl-dots .owl-dot.active,
+.volunteer-carousel .owl-dots .owl-dot:hover,
+.volunteer-member .info-box,
+.volunteer-member .inner-box:before,
+.mixitup-gallery .filters li.active,
+.mixitup-gallery .filters li:hover,
+.help-block .inner-box:before,
+.progress-bars .bar-item .skill-bar .bar-inner .bar:after,
+.main-header .sticky-header .main-menu .navigation > li:hover > a,
+.main-header .sticky-header .main-menu .navigation > li.current > a,
+.main-header .sticky-header .main-menu .navigation > li.current-menu-item > a,
+.main-menu .navigation > li > ul > li > ul > li:hover > a,
+.main-menu .navigation > li > ul > li:hover > a,
+.btn-style-three:hover,
+.btn-style-two,
+.btn-style-one,
+.list-style-one li:before{
+	background-color:#ff0000;
+}
+
+
+/*Border Color*/
+.about-section .image-column .image-2:before,
+.about-section .image-column .image-1:before,
+.contact-form .form-group input:focus,
+.contact-form .form-group select:focus,
+.contact-form .form-group textarea:focus,
+.main-menu .navigation > li > ul,
+.comment-form .form-group input:focus,
+.comment-form .form-group select:focus,
+.comment-form .form-group textarea:focus,
+.sidebar .search-box .form-group input:focus,
+.progress-bars .bar-item .skill-bar .bar-inner .bar,
+.main-header .search-panel input:focus,
+.main-header .search-panel select:focus,
+.main-header  .dropdown-menu,
+.btn-style-three:hover,
+.btn-style-two:hover,
+.btn-style-two{
+	border-color:#ff0000;
+}
+
+
+
+@media only screen and (max-width: 767px){
+	
+	.main-menu .navbar-header .navbar-toggle{
+
+	}
+	
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
+	.header-style-two.inner-header .main-menu .navigation > li > a{
+		background-color: #ff0000;
+	}
+	
+}
